@@ -11,4 +11,4 @@ There were three main sources of data for this project:
 
 ### Cleaning Data
 
-After making some visual and programmatic assessments of the three sets of gathered data, I cleaned it to make the data easier to work with. 
+After making some visual and programmatic assessments of the three sets of gathered data, I cleaned it to make the data easier to work with. In this step, I identified 8 quality issues and 2 tidiness issues which included: mismatched datatypes, missing data, incorrect labelling, and untidy formatting of data presentation. 
